@@ -1,0 +1,40 @@
+.calculadora{
+   /*colocamos los objetos en forma de bloques*/
+    display:block;
+    /*Margen Centrados*/
+    margin:0 auto;
+    /* Tamaño de Relleno*/
+    padding:20px;
+    /*Color de Fondo*/
+    background-color:#003333;
+    /*Modificamos el Ancho de la clase*/
+    width:350px;
+    /*Modificamos la Altura*/
+    height:550px;
+    /*redondeamos los bordes*/
+    border-radius:25px;
+}
+.calculadora td button{
+    display:block;
+    width:70px;
+    height:70px;
+    /*Tamaño de Letra*/
+    font-size:30px;
+}
+
+#resultado{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+	margin-bottom: 40 px;
+	width: 300px;
+	height: 80px;
+	line-heigt: 100px;
+	background-color: #fff;
+	border-radius: 25px;
+	
+}
+}
+
+//copias de seguridad 
+#2E86C1
